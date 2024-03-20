@@ -1,0 +1,22 @@
+.scrollblock {
+    padding: 80px 0;
+}
+
+.block-title {
+    padding-bottom: 50px;
+}
+
+h1 {
+    font-family: 'Chelsea Market', Georgia, serif;
+    font-weight: 400;
+    font-size: 6rem;
+    margin: 0;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    width: 96rem;
+    margin: 4rem auto;
+    line-height: 200%;
+}
