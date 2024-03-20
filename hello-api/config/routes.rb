@@ -8,7 +8,7 @@ Rails.application.routes.draw do
 
   root "landing#index"
 
-  get "landing", to: "landing#index"
+  get "landing" => "landing#index"
 
   # Defines the root path route ("/")
   # root "posts#index"
